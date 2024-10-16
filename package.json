@@ -1,0 +1,17 @@
+{
+  "name": "34.1.express.calculator",
+  "version": "1.0.0",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "supertest": "^7.0.0"
+  }
+}
